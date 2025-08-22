@@ -1,23 +1,31 @@
 # SCT_SD_02
-# 🎯 Guess the Number Game (Python)
+# 🎯 Guess the Number (Python Game)
 
 A simple Python program where the computer generates a random number, and the player has to guess it.  
 The game gives hints whether the guess is too high or too low until the player guesses correctly.
 
 ---
 
-## 🚀 Features
-- Generates a random number between 1 and 100.
-- Prompts the user to guess the number.
-- Provides feedback ("Too high" / "Too low").
-- Ends when the user guesses correctly.
+## ✨ Features
+- ✅ Generates a random number between 1 and 100.
+- ✅ Prompts the user to input their guess.
+- ✅ Provides feedback ("Too High" / "Too Low").
+- ✅ Ends with a success message when the number is guessed correctly.
+- ✅ Lightweight, runs in any Python environment (no external libraries needed).
 
 ---
 
-## 🛠️ How to Run
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/Saumykumar23/SCT_SD_02.git
+## 📂 Project Structure
+├── guess_number.py # Main Python program
+└── README.md # Project documentation
 
-cd guess-the-number
-python guess_number.py
+---  
+
+
+## 💻 Local Installation & Running
+
+1. **Clone the repository** 
+   
+   git clone https://github.com/saumykumar23/SCT_SD_02.git
+   cd SCT_SD_02
+
