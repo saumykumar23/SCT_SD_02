@@ -27,5 +27,6 @@ The game gives hints whether the guess is too high or too low until the player g
 1. **Clone the repository** 
    
    git clone https://github.com/saumykumar23/SCT_SD_02.git
+   
    cd SCT_SD_02
 
